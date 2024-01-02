@@ -1,6 +1,6 @@
 # My Journey into Transformers
 
-![Transformers](transformers_image.jpg)
+![Transformers](images/book_cover.jpg)
 
 ## Introduction
 
