@@ -1,8 +1,55 @@
-# Transformers Notebooks
+# My Journey into Transformers
 
-This repository contains the example code from our O'Reilly book [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/):
+![Transformers](transformers_image.jpg)
 
-<img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
+## Introduction
+
+This repository contains the example code from the O'Reilly book ["Natural Language Processing with Transformers"](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/). I've created this README to share my learning journey and document how I'm exploring and experimenting with the code for each chapter to deepen my understanding of transformers.
+
+## About the Book
+
+The book "Natural Language Processing with Transformers" by Lewis Tunstall, Leandro von Werra, and Thomas Wolf is serving as my guide on this exciting journey into the world of transformers, a powerful class of machine learning models that have revolutionized NLP tasks.
+
+## My Learning Path
+
+### Week 1: Getting Started
+
+- **Objective:** Understand the fundamentals of transformers.
+- **Tasks:**
+  - Read the introduction chapters of the book.
+  - Set up the development environment as per the book's recommendations.
+  - Execute basic examples from the provided code repository.
+
+### Week 2: Exploring Transformer Architectures
+
+- **Objective:** Gain a deeper understanding of different transformer architectures.
+- **Tasks:**
+  - Dive into chapters that cover specific transformer models (e.g., BERT, GPT).
+  - Implement code snippets for each architecture.
+  - Experiment with modifications to the code for a better grasp of concepts.
+
+### Week 3: Hands-On Experimentation
+
+- **Objective:** Apply transformer models to real-world NLP tasks.
+- **Tasks:**
+  - Go through the code for each chapter.
+  - Make modifications and experiment with parameters.
+  - Document personal insights and observations.
+
+## How to Use This Repository
+
+-  I am modifying the chapters to reflect my personal notes and conduct experiments to help me understand the concepts.
+
+## Contributions
+
+Feel free to contribute by opening issues, suggesting improvements, or sharing your own insights. Let's learn and grow together!
+
+## Acknowledgments
+
+I want to express my gratitude to the author of "Natural Language Processing with Transformers" for providing such a comprehensive resource.
+
+Happy coding and NLP experimenting!
+
 
 ## Getting started
 
@@ -41,7 +88,7 @@ Nowadays, the GPUs on Colab tend to be K80s (which have limited memory), so we r
 To run the notebooks on your own machine, first clone the repository and navigate to it:
 
 ```bash
-$ git clone https://github.com/nlp-with-transformers/notebooks.git
+$ git clone https://github.com/shubhodeepMitra/transformers-notebooks.git
 $ cd notebooks
 ```
 
